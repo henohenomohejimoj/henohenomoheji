@@ -1,3 +1,10 @@
+henohenomohejicoin: A Peer-to-Peer Electronic Cash System
+henohenomoheji (MOJ)
+
+Email: henohenomoheji.moj.777@gmail.com
+
+Official Website: https://henohenomoheji.landing.ws/
+
 # henohenomoheji (MOJ) Token Whitepaper
 
 ## Table of Contents
