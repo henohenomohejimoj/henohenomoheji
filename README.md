@@ -1,4 +1,4 @@
-henohenomohejicoin: A Peer-to-Peer Electronic Cash System
+henohenomohejicoin: A Cultural and Community Token
 henohenomoheji (MOJ)
 
 Email: henohenomoheji.moj.777@gmail.com
