@@ -118,9 +118,9 @@ Community communication and activities may include online discussions, campaigns
 
 | Period          | Milestone                                  | Details                                                                                                                           |
 | --------------- | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| Q3 2029         | Token Launch and Whitepaper Release        | Official launch of the henohenomoheji (MOJ) token and publication of the official whitepaper and core project materials.          |
-| Q3–Q4 2029      | Official Website and Community Development | Development and expansion of official project channels, website improvements, and community-building activities.                  |
-| Q4 2029–2031    | Ecosystem and Utility Exploration          | Exploration of potential token utility, creator collaborations, cultural projects, and compatible ecosystem integrations.         |
+| Q1 2029         | Token Launch and Whitepaper Release        | Official launch of the henohenomoheji (MOJ) token and publication of the official whitepaper and core project materials.          |
+| Q1–Q2 2029      | Official Website and Community Development | Development and expansion of official project channels, website improvements, and community-building activities.                  |
+| Q2 2029–2031    | Ecosystem and Utility Exploration          | Exploration of potential token utility, creator collaborations, cultural projects, and compatible ecosystem integrations.         |
 | 2032 and Beyond | Ecosystem Expansion                        | Continued development based on community participation, technical feasibility, regulatory considerations, and project priorities. |
 
 **Note:** This roadmap represents the project's current plans and is subject to change. Actual timing, features, partnerships, and implementation may differ due to technical, regulatory, market, or other factors.
