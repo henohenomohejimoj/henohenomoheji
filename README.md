@@ -1,8 +1,11 @@
 # henohenomohejicoin: A Cultural and Community Token
 
 **Token Name:** henohenomoheji
+
 **Symbol:** MOJ
+
 **Email:** [henohenomoheji.moj.777@gmail.com](mailto:henohenomoheji.moj.777@gmail.com)
+
 **Official Website:** [henohenomoheji Official Website](https://henohenomoheji.landing.ws/?utm_source=chatgpt.com)
 
 ## henohenomoheji (MOJ) Token Whitepaper
