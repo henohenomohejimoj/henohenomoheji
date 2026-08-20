@@ -8,6 +8,7 @@ Character Structure
 　じ　　Sweat
 </pre>
  Overview
+
 henohenomoheji (MOJ) is a traditional Japanese face created using hiragana characters. Inspired by a cultural motif with a history of over 1,200 years, it is closely associated with Japanese scarecrow traditions and cultural expression.
 
 # henohenomohejicoin: A Cultural and Community Token
